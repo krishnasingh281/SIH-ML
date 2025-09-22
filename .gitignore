@@ -95,4 +95,8 @@ Desktop.ini
 *.sqlite3
 *.db
 
+<<<<<<< HEAD
 fra_ner/notebook/sih-108-318dee058e99.json
+=======
+fra_ner/notebook/sih-108-9b2fb7f0aae8.json
+>>>>>>> 9b749e7f8ac56ee7fb5844980981b805b674b494
